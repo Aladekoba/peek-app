@@ -31,7 +31,7 @@ def post_javascript_data():
     today = days_map[today]
 
     place = request.form['place_data']
-    resp = get_id('AIzaSyBxHF3IVYVssiQLUn_1VKCxritKrneCfj8', place)
+    resp = get_id(input("Enter API key: "), place)
     times = []
     if not 'populartimes' in resp:
         return jsonify({'prediction': 'probably not'})
