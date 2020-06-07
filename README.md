@@ -1,2 +1,2 @@
 # peek-app
-Avoided crowded places by checking (taking a "peek") before heading out.
+Avoid crowded places by checking (taking a "peek") before heading out.
