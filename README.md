@@ -1,5 +1,5 @@
 # peek-app
-Avoid crowded places by checking (taking a "peek") before heading out.I built both web/front end, chat bot, and API interfaces for Peek.
+Avoid crowded places by checking (taking a "peek") before heading out. I built both web/front end, chat bot, and API interfaces for Peek.
 
 ## How It Works
 - I built peek on populartimes, Google Maps, and Google Places APIs.
