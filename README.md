@@ -15,7 +15,7 @@ Avoid crowded places by checking (taking a "peek") before heading out. I built b
 - Javascript/HTML/CSS
 - jQuery
 
-## What I learned
+## New Things I learned During This Project
 - Building an API with Flask and Flask-Restful
 - Using jQuery for making HTTP requests.
 
